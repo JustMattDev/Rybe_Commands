@@ -1,0 +1,39 @@
+Ban
+- //ban @user hacking discord
+Unban
+- //unban @user wrong ban sorry
+Kick
+- //kick @user disobeyed a rule
+Add Role
+- //addrole @user @owner
+Remove Role
+- //removerole @user @owner
+Purge
+- //purge 100
+Mute
+- //mute @user Dm Advertising
+Warn
+- //warn @user spamming
+Warnings
+- //warnings
+Clear Warns
+- //clearwarns @user You are forgiven
+Bot
+- //bot
+Features
+- //features
+Help
+- //help 
+Invite
+- //invite 
+Uptime
+- //uptime
+Suggest
+- //suggest New Command : Command Name : Function
+Report
+- //report @user bot abuse
+Info
+- //info
+Bot-Info
+- //bot-info
+
